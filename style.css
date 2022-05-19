@@ -55,9 +55,9 @@ header > p{
     margin-top: 10px;
     max-width: 500px;
     margin: auto;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.850);
- 
+    margin-bottom: 20px;
     
     
 }
